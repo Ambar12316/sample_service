@@ -12,7 +12,7 @@
 	<artifactId>order-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>order-service</name>
-	<description>Implementing two microservices: OrderService and InventoryService</description>
+	<description>Microservice</description>
 	<url/>
 	<licenses>
 		<license/>
